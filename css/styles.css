@@ -1,0 +1,44 @@
+.header {
+  color: #A93226;
+  font-size: 30px;
+  text-align: center;
+}
+
+body {
+  background-color: #F08080;
+  font-family: arial;
+}
+
+img {
+  width: 400px;
+  max-height: 400px;
+}
+
+.information {
+  border: 15px solid #E67E22;
+  text-align: center;
+  margin: 20px;
+  padding-top: 2px;
+}
+
+.information li {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+.contactinfo {
+  text-align: center;
+  padding-top: 30px;
+}
+
+.contactinfo h3 {
+  text-decoration: underline;
+}
+
+.sidebar {
+  float: right;
+}

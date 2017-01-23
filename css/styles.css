@@ -16,14 +16,17 @@ img {
 
 .information {
   border: 15px solid #E67E22;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 4px;
   text-align: center;
-  margin: 20px;
-  padding-top: 2px;
 }
 
 .information li {
   font-weight: bold;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 ul {
@@ -33,6 +36,7 @@ ul {
 .contactinfo {
   text-align: center;
   padding-top: 30px;
+  color: #E74C3C;
 }
 
 .contactinfo h3 {
@@ -40,5 +44,7 @@ ul {
 }
 
 .sidebar {
-  float: right;
+  text-align: right;
+  padding-bottom: 30px;
+  font-size: 20px;
 }

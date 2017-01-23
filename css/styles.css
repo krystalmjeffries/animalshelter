@@ -14,37 +14,34 @@ img {
   max-height: 400px;
 }
 
-.information {
-  border: 15px solid #E67E22;
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  padding-top: 4px;
-  text-align: center;
-}
-
-.information li {
+.column p {
   font-weight: bold;
   font-size: 40px;
 }
 
-ul {
-  list-style: none;
+.column {
+  width: 500px;
+  border: 15px solid #E67E22;
+  margin-top: 3%;
+  margin-bottom: 7%;
+  margin-left: 28%;
+  padding-top: 4px;
+  text-align: center;
 }
 
 .contactinfo {
   text-align: center;
   padding-top: 30px;
   color: #E74C3C;
+  clear: both;
 }
 
 .contactinfo h3 {
   text-decoration: underline;
+  font-weight: bold;
 }
 
 .sidebar {
   text-align: right;
-  padding-bottom: 30px;
   font-size: 20px;
 }
